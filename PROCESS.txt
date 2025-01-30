@@ -1,0 +1,20 @@
+**Encryption**
+
+Advanced_Meter.csv
+masterkey
+keywordlist
+
+(A csv file named Advanced_Meter_index.csv will be generated)
+
+
+
+**Keyword prepartion**
+
+TN
+masterkey
+(A file named TN_trapdoor will be generated)
+
+
+**search**
+Advanced_Meter_index.csv
+TN_trapdoor
